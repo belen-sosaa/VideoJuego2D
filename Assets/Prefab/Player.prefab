@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 1906554063117729381}
   - component: {fileID: 7330811923055224626}
   m_Layer: 0
-  m_Name: character_berie
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -136,7 +136,7 @@ Animator:
   m_GameObject: {fileID: 8997731123413390266}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 6315413540952424122, guid: 02fa13acffa771348b7e5ed692f1a99f, type: 3}
+  m_Controller: {fileID: 9100000, guid: 128156626cc7ddf448b00922b3df6d48, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -231,3 +231,4 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
+  textCoins: {fileID: 0}
